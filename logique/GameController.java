@@ -149,7 +149,7 @@ public class GameController {
     private void handleCardClick(CardCompo comp, Card card) {
         Player currentPlayer = players.get(currentPlayerIndex);
 
-        // Restrict card play to the human player
+        // Allow action only if it's the human player's turn
         if (!currentPlayer.getName().equals("You")) {
             System.out.println("It's not your turn!");
             return;
@@ -187,7 +187,7 @@ public class GameController {
     private void drawCardForCurrentPlayer() {
         Player currentPlayer = players.get(currentPlayerIndex);
 
-        // Restrict to player's turn
+        // Allow action only if it's the human player's turn
         if (!currentPlayer.getName().equals("You")) {
             System.out.println("It's not your turn!");
             return;
