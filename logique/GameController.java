@@ -20,15 +20,15 @@ public class GameController {
         this.deck = new Deck();
         this.players = new ArrayList<>();
 
-        // Example setup with 1 player
+      
         Player player = new Player("You");
         Player player2 = new Player("AI");
        players.add(player2);
       for (int i = 0; i < 7; i++) {
       Card card = deck.draw();
       player2.addCard(card);
-    // No need to show AI cards for now
-}
+    
+      }
 
         players.add(player);
         currentPlayerIndex = 0;
@@ -49,6 +49,11 @@ public class GameController {
 
         setupListeners();
     }
+    private void advanceToNextPlayer() {
+        currentPlayerIndex = (currentPlayerIndex + 1) % players.size();
+        System.out.println("Turn: " + players.get(currentPlayerIndex).getName());
+    }
+    
 
     private void setupListeners() {
         // Draw pile click
@@ -78,28 +83,40 @@ public class GameController {
     }
 
     private void handleCardClick(CardCompo comp, Card card) {
-        if (card.isPlayableOn(topCard, currentColor)) {
-            // Play the card
-            Player player = players.get(currentPlayerIndex);
-            player.removeCard(card);
-            gameBoard.getPlayerPanel().removeCard(comp);
-
-            topCard = card;
-            currentColor = card.getColor(); // TODO: Ask player for color if WILD
-
-            gameBoard.getDeckPanel().setTopDiscard(card.getColor().name().toLowerCase(), card.getValue().name().toLowerCase());
-
-            System.out.println(player.getName() + " played: " + card);
-
-            // TODO: handle special cards (skip, reverse, draw2, etc.)
-            if (player.hasWon()) {
-                // Display winner message
-                JOptionPane.showMessageDialog(null, player.getName() + " wins!");
-            }
-        } else {
-            System.out.println("Invalid move: " + card);
+        Player currentPlayer = players.get(currentPlayerIndex);
+    
+        if (!currentPlayer.getName().equals("You")) {
+            System.out.println("It's not your turn!");
+            return;
         }
+    
+        if (!card.isPlayableOn(topCard, currentColor)) {
+            System.out.println("Invalid move: " + card);
+            return;
+        }
+    
+        // Play the card
+        currentPlayer.removeCard(card);
+        gameBoard.getPlayerPanel().removeCard(comp);
+    
+        topCard = card;
+        currentColor = card.getColor(); // TODO: handle WILD
+    
+        gameBoard.getDeckPanel().setTopDiscard(
+            card.getColor().name().toLowerCase(),
+            card.getValue().name().toLowerCase()
+        );
+    
+        System.out.println(currentPlayer.getName() + " played: " + card);
+    
+        if (currentPlayer.hasWon()) {
+            JOptionPane.showMessageDialog(null, currentPlayer.getName() + " wins!");
+            return;
+        }
+    
+        advanceToNextPlayer(); // advance turn AFTER valid play
     }
+    
 
     private void drawCardForCurrentPlayer() {
         Player player = players.get(currentPlayerIndex);
