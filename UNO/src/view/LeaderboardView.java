@@ -138,6 +138,12 @@ public class LeaderboardView extends BaseFrame {
 		model.addColumn(UITexts.LEADERBOARD_COLUMN_SCORE);
 
 		var currentUser = CurrentUserManager.getInstance().getCurrentUser();
+		if (currentUser==null){
+			System.out.println("clikcimnnn");
+		}
+		if (currentUser.getId()==null){
+			currentUser.setId("waooaooaooaoooa");
+		}
 		int currentUserRow = -1;
 
 		int rank = 1;

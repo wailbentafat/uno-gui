@@ -78,6 +78,13 @@ public class User implements Serializable {
 	 * @param id The ID of the user.
 	 */
 	public void setId(String id) {
+		if (id == null || id.isEmpty()) {
+			throw new IllegalArgumentException("ID cannot be null or empty");
+		}
+		if (id.length() > 50) {
+			throw new IllegalArgumentException("ID cannot exceed 50 characters");
+		}
+		System.out.println("ID: " + id);
 		this.id = id;
 	}
 
@@ -114,6 +121,15 @@ public class User implements Serializable {
 	 * @param email The email address of the user.
 	 */
 	public void setEmail(String email) {
+		if (email == null || email.isEmpty()) {
+			throw new IllegalArgumentException("Email cannot be null or empty");
+		}
+		if (!email.matches("^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$")) {
+			throw new IllegalArgumentException("Invalid email format");
+		}
+		if (email.length() > 50) {
+			throw new IllegalArgumentException("Email cannot exceed 50 characters");
+		}
 		this.email = email;
 	}
 

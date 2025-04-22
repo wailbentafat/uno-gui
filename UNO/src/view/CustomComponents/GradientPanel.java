@@ -36,7 +36,7 @@ public class GradientPanel extends JPanel {
 	 * if no colors are provided.
 	 */
 	public GradientPanel() {
-		this(new Color(20, 136, 204), new Color(43, 50, 178));
+		this(new Color(255, 0, 0), new Color(139, 0, 0));
 	}
 
 	/**
