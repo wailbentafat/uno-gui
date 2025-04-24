@@ -486,3 +486,63 @@ and chose YELLOW color.
 2025-04-22 17:14:06 - Bot Hasad's turn.
 2025-04-22 17:14:09 - Bot Hasad played a RED 2.
 2025-04-22 17:14:09 - Bot Mikayla's turn.
+2025-04-24 23:17:24 - The game walid has started.
+2025-04-24 23:17:24 - JohnDoe's turn.
+2025-04-24 23:17:27 - JohnDoe played a GREEN 1.
+2025-04-24 23:17:27 - Bot Dante's turn.
+2025-04-24 23:17:30 - Bot Dante played a GREEN 5.
+2025-04-24 23:17:30 - Bot Mikayla's turn.
+2025-04-24 23:17:33 - Bot Mikayla played an Action Card (GREEN DRAW_2).
+2025-04-24 23:17:33 - A Draw 2 card was played. Bot Joel drew 2 cards.
+2025-04-24 23:17:34 - JohnDoe's turn.
+2025-04-24 23:17:41 - JohnDoe played a Wild Card (WILD_DRAW_4)
+and chose GREEN color.
+2025-04-24 23:17:41 - A Draw 4 card was played. Bot Dante drew 4 cards.
+2025-04-24 23:17:42 - Bot Mikayla's turn.
+2025-04-24 23:17:45 - Bot Mikayla played a Reverse Card (GREEN REVERSE).
+2025-04-24 23:17:45 - Bot Dante's turn.
+2025-04-24 23:17:48 - Bot Dante has drawn 1 card(s).
+2025-04-24 23:17:48 - Bot Dante played a GREEN 4.
+2025-04-24 23:17:49 - JohnDoe's turn.
+2025-04-24 23:17:55 - JohnDoe played a Wild Card (WILD_DRAW_4)
+and chose YELLOW color.
+2025-04-24 23:17:55 - A Draw 4 card was played. Bot Joel drew 4 cards.
+2025-04-24 23:17:56 - Bot Mikayla's turn.
+2025-04-24 23:17:59 - Bot Mikayla played an Action Card (YELLOW DRAW_2).
+2025-04-24 23:17:59 - A Draw 2 card was played. Bot Dante drew 2 cards.
+2025-04-24 23:18:00 - JohnDoe's turn.
+2025-04-24 23:18:05 - JohnDoe played a Wild Card (WILD)
+and chose BLUE color.
+2025-04-24 23:18:05 - Bot Joel's turn.
+2025-04-24 23:18:08 - Bot Joel played a Reverse Card (BLUE REVERSE).
+2025-04-24 23:18:09 - JohnDoe's turn.
+2025-04-24 23:18:13 - JohnDoe played a BLUE 1.
+2025-04-24 23:18:13 - Bot Dante's turn.
+2025-04-24 23:18:16 - Bot Dante played a Skip Card (BLUE SKIP).
+2025-04-24 23:18:17 - Bot Joel's turn.
+2025-04-24 23:18:20 - Bot Joel played a BLUE 4.
+2025-04-24 23:18:21 - JohnDoe's turn.
+2025-04-24 23:18:36 - JohnDoe played a BLUE 3.
+2025-04-24 23:18:36 - Bot Dante's turn.
+2025-04-24 23:18:39 - Bot Dante played a BLUE 3.
+2025-04-24 23:18:39 - Bot Mikayla's turn.
+2025-04-24 23:18:42 - Bot Mikayla played a BLUE 8.
+2025-04-24 23:18:43 - Bot Joel's turn.
+2025-04-24 23:18:46 - Bot Joel played a BLUE 0.
+2025-04-24 23:18:46 - JohnDoe's turn.
+2025-04-24 23:18:53 - JohnDoe played a Wild Card (WILD)
+and chose YELLOW color.
+2025-04-24 23:18:53 - Bot Dante's turn.
+2025-04-24 23:18:56 - Bot Dante played a YELLOW 7.
+2025-04-24 23:18:56 - Bot Mikayla's turn.
+2025-04-24 23:18:59 - Bot Mikayla has drawn 3 card(s).
+2025-04-24 23:18:59 - Bot Mikayla played a Wild Card (WILD)
+and chose YELLOW color.
+2025-04-24 23:19:00 - Bot Joel's turn.
+2025-04-24 23:19:03 - Bot Joel played a Wild Card (WILD_DRAW_4)
+and chose BLUE color.
+2025-04-24 23:19:03 - A Draw 4 card was played. JohnDoe drew 4 cards.
+2025-04-24 23:19:03 - Bot Dante's turn.
+2025-04-24 23:19:06 - Bot Dante played a Wild Card (WILD)
+and chose YELLOW color.
+2025-04-24 23:19:06 - Bot Mikayla's turn.
