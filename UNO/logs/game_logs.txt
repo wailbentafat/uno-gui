@@ -466,3 +466,23 @@ and chose YELLOW color.
 2025-04-22 12:02:43 - Bot Elmo's turn.
 2025-04-22 12:02:46 - Bot Elmo played a YELLOW 4.
 2025-04-22 12:02:46 - DavidAnderson's turn.
+2025-04-22 14:49:13 - The game heyyy has started.
+2025-04-22 14:49:13 - RobertJohnson's turn.
+2025-04-22 14:49:19 - RobertJohnson played a RED 4.
+2025-04-22 14:49:19 - Bot Elmo's turn.
+2025-04-22 14:49:22 - Bot Elmo played a RED 1.
+2025-04-22 14:49:22 - Bot Mendez's turn.
+2025-04-22 14:49:25 - Bot Mendez played a Skip Card (RED SKIP).
+2025-04-22 14:49:25 - Bot Mikayla's turn.
+2025-04-22 14:49:28 - Bot Mikayla played a RED 9.
+2025-04-22 14:49:29 - RobertJohnson's turn.
+2025-04-22 14:49:44 - RobertJohnson played a RED 7.
+2025-04-22 14:49:44 - Bot Elmo's turn.
+2025-04-22 14:49:47 - Bot Elmo has drawn 3 card(s).
+2025-04-22 14:49:47 - Bot Elmo played a RED 3.
+2025-04-22 14:49:47 - Bot Mendez's turn.
+2025-04-22 17:14:05 - Bot Mendez has drawn 7 card(s).
+2025-04-22 17:14:05 - Bot Mendez played a RED 9.
+2025-04-22 17:14:06 - Bot Hasad's turn.
+2025-04-22 17:14:09 - Bot Hasad played a RED 2.
+2025-04-22 17:14:09 - Bot Mikayla's turn.
