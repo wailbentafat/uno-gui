@@ -546,3 +546,68 @@ and chose BLUE color.
 2025-04-24 23:19:06 - Bot Dante played a Wild Card (WILD)
 and chose YELLOW color.
 2025-04-24 23:19:06 - Bot Mikayla's turn.
+2025-04-28 12:42:28 - The game hyata has started.
+2025-04-28 12:42:28 - RobertJohnson's turn.
+2025-04-28 12:43:15 - RobertJohnson played a GREEN 9.
+2025-04-28 12:43:15 - Bot Joel's turn.
+2025-04-28 12:43:18 - Bot Joel played a GREEN 7.
+2025-04-28 12:43:18 - Bot Joelle's turn.
+2025-04-28 12:43:21 - Bot Joelle played a Skip Card (GREEN SKIP).
+2025-04-28 12:43:22 - RobertJohnson's turn.
+2025-04-28 12:43:25 - RobertJohnson played a Wild Card (WILD_DRAW_4)
+and chose YELLOW color.
+2025-04-28 12:43:25 - A Draw 4 card was played. Bot Joel drew 4 cards.
+2025-04-28 12:43:26 - Bot Joelle's turn.
+2025-04-28 13:43:15 - The game heyyy has started.
+2025-04-28 13:43:15 - aykhan's turn.
+2025-04-28 13:43:17 - aykhan played a BLUE 6.
+2025-04-28 13:43:17 - Bot Mikayla's turn.
+2025-04-28 13:43:20 - Bot Mikayla played a BLUE 7.
+2025-04-28 13:43:20 - Bot Mendez's turn.
+2025-04-28 13:43:23 - Bot Mendez played a BLUE 9.
+2025-04-28 13:43:24 - Bot Joelle's turn.
+2025-04-28 13:43:27 - Bot Joelle has drawn 1 card(s).
+2025-04-28 13:43:27 - Bot Joelle played a Wild Card (WILD)
+and chose YELLOW color.
+2025-04-28 13:43:27 - Bot Hasad's turn.
+2025-04-28 13:43:30 - Bot Hasad has drawn 1 card(s).
+2025-04-28 13:43:30 - Bot Hasad played a YELLOW 1.
+2025-04-28 13:43:31 - aykhan's turn.
+2025-04-28 13:43:34 - aykhan played a YELLOW 9.
+2025-04-28 13:43:34 - Bot Mikayla's turn.
+2025-04-28 13:43:37 - Bot Mikayla played a YELLOW 3.
+2025-04-28 13:43:38 - Bot Mendez's turn.
+2025-04-28 13:43:41 - Bot Mendez played a Skip Card (YELLOW SKIP).
+2025-04-28 13:43:41 - Bot Hasad's turn.
+2025-04-29 09:20:16 - The game heyyy has started.
+2025-04-29 09:20:16 - JohnDoe's turn.
+2025-04-29 10:24:14 - The game heyyyyy has started.
+2025-04-29 10:24:14 - DavidAnderson's turn.
+2025-04-29 10:24:25 - DavidAnderson played a BLUE 1.
+2025-04-29 10:24:25 - Bot Mikayla's turn.
+2025-04-29 10:24:28 - Bot Mikayla played a BLUE 6.
+2025-04-29 10:24:29 - Bot Mendez's turn.
+2025-04-29 10:24:32 - Bot Mendez has drawn 2 card(s).
+2025-04-29 10:24:32 - Bot Mendez played a Wild Card (WILD)
+and chose RED color.
+2025-04-29 10:24:32 - Bot Joelle's turn.
+2025-04-29 10:24:35 - Bot Joelle played a Wild Card (WILD)
+and chose RED color.
+2025-04-29 10:24:35 - DavidAnderson's turn.
+2025-04-29 10:24:45 - DavidAnderson played a RED 3.
+2025-04-29 10:24:45 - Bot Mikayla's turn.
+2025-04-29 10:24:48 - Bot Mikayla played a RED 7.
+2025-04-29 10:24:49 - Bot Mendez's turn.
+2025-04-29 10:24:52 - Bot Mendez played a RED 0.
+2025-04-29 10:24:52 - Bot Joelle's turn.
+2025-04-29 10:24:55 - Bot Joelle played a Skip Card (RED SKIP).
+2025-04-29 10:24:55 - Bot Mikayla's turn.
+2025-04-29 10:24:58 - Bot Mikayla has drawn 2 card(s).
+2025-04-29 10:24:58 - Bot Mikayla played a Skip Card (YELLOW SKIP).
+2025-04-29 10:24:59 - Bot Joelle's turn.
+2025-04-29 10:25:02 - Bot Joelle played a YELLOW 1.
+2025-04-29 10:25:02 - DavidAnderson's turn.
+2025-04-29 10:47:17 - The game hryy has started.
+2025-04-29 10:47:17 - JohnDoe's turn.
+2025-04-29 17:42:56 - The game sellami has started.
+2025-04-29 17:42:56 - JohnDoe's turn.

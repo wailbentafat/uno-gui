@@ -72,14 +72,15 @@ public class LoginPageView extends BaseFrame {
 		addLoginButton();
 		addForgotPasswordButton();
 		addRegisterButton();
+		
 
 		this.add(mainJPanel);
-
+		getContentPane().requestFocusInWindow();
+		getContentPane().requestFocusInWindow(); // mhbthch tmchi khtra brk
+		getContentPane().requestFocusInWindow();
 		setVisible(true);
 
-		getContentPane().requestFocusInWindow();
-		getContentPane().requestFocusInWindow(); // requesting 1 time does not help :(
-		getContentPane().requestFocusInWindow();
+		
 	}
 
 	/**
@@ -90,10 +91,11 @@ public class LoginPageView extends BaseFrame {
 	private JPanel getMainJPanel() {
 		JPanel panel1 = new GradientPanel();
 
-		Dimension size = new Dimension(WindowConstants.DEFAULT_WINDOW_WIDTH, WindowConstants.DEFAULT_WINDOW_HEIGHT);
-		panel1.setPreferredSize(size);
-		panel1.setSize(size);
-		panel1.setPreferredSize(size);
+		// Dimension size = new Dimension(WindowConstants.DEFAULT_WINDOW_WIDTH, WindowConstants.DEFAULT_WINDOW_HEIGHT);
+		// panel1.setPreferredSize(size);
+		// panel1.setSize(size);
+		// panel1.setPreferredSize(size);
+		// panel1.setLayout(null);
 		panel1.setLayout(null);
 
 		MouseAdapter ma = new MouseAdapter() {

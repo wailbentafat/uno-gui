@@ -5,10 +5,10 @@ package util.constants;
  */
 public class WindowConstants {
 	/** The default window width. */
-	public static final int DEFAULT_WINDOW_WIDTH = 1280;
+	public static final int DEFAULT_WINDOW_WIDTH = 10000;
 
 	/** The default window height. */
-	public static final int DEFAULT_WINDOW_HEIGHT = 720;
+	public static final int DEFAULT_WINDOW_HEIGHT = 10000;
 
 	/** The title of the main application window. */
 	public static final String WINDOW_TITLE = "UNO Game Simulation";

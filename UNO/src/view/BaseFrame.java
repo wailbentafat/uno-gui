@@ -30,20 +30,8 @@ public abstract class BaseFrame extends JFrame {
 	 *                      It can be null if there is no previous frame.
 	 */
 	public BaseFrame(String title, BaseFrame previousFrame) {
-		super(title);
 
-		this.previousFrame = previousFrame;
-
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-		setSize(WindowConstants.DEFAULT_WINDOW_WIDTH, WindowConstants.DEFAULT_WINDOW_HEIGHT);
-
-		Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
-		setLocation(dim.width / 2 - getSize().width / 2, dim.height / 2 - getSize().height / 2);
-
-		changeWindowIcon();
-
-		setResizable(false);
+		
 	}
 
 	/**
@@ -70,6 +58,10 @@ public abstract class BaseFrame extends JFrame {
 		// Set the resized icon image as the window icon
 		setIconImage(scaledIcon);
 	}
+	private void systemout(String string) {
+		System.out.println(string);
+	}
+
 
 	/**
 	 * Abstract method to initialize the frame. Subclasses must implement this
